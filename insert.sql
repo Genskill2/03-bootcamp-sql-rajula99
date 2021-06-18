@@ -1,7 +1,7 @@
 insert into publisher(name, country) values ("PHI", "India"),("Harper", "USA"), ("GCP", "USA"), ("Avery", "USA"), ("Del Rey", "UK"), ("Vintage", "UK");
 
 
-insert into books(title, publisher) values ("The C Programming Language", 1), ("The Go Programming Language", 1), ("The UNIX Programming Environment", 1), ("Cryptonomicon ", 2), ("Deep Work ", 3),("Atomic Habits", 4), ("The City and The City", 5), ("The Great War for Civilisation", 6);
+insert into books(title, publisher) values ("The C Programming Language", 1), ("The Go Programming Language", 1), ("The UNIX Programming Environment", 1), ("Cryptonomicon", 2), ("Deep Work", 3),("Atomic Habits", 4), ("The City and The City", 5), ("The Great War for Civilisation", 6);
 
 
 insert into subjects(name) values ("C"), ("UNIX"), ("Technology"), ("Go"), ("Science Fiction"), ("Productivity"), ("Psychology"), ("Politics"), ("History");
